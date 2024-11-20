@@ -28,16 +28,16 @@ Optimizer: AdamW
 
 ## Results
 ### Training Loss
-<img src="logs/20240608142921/Loss_train.svg" alt="Training Loss" width="330" height="200">
+<img src="logs/20240608142921/Loss_train.png" alt="Training Loss" width="330" height="200">
 
 ### Validation Loss
-<img src="logs/20240608142921/Loss_val.svg" alt="Validation Loss" width="330" height="200">
+<img src="logs/20240608142921/Loss_val.png" alt="Validation Loss" width="330" height="200">
 
 ### Training Accuracy
-<img src="logs/20240608142921/Accuracy_train.svg" alt="Training Accuracy" width="330" height="200">
+<img src="logs/20240608142921/Accuracy_train.png" alt="Training Accuracy" width="330" height="200">
 
 ### Validation Accuracy
-<img src="logs/20240608142921/Accuracy_val.svg" alt="Validation Accuracy" width="330" height="200">
+<img src="logs/20240608142921/Accuracy_val.png" alt="Validation Accuracy" width="330" height="200">
 
 ### Correct Inference
 ![Correct Inference](logs/20240608142921/correct_inference.png)
